@@ -38,6 +38,7 @@
 #define __QRCODE_H_
 
 #include <stdint.h>
+#include <stdbool.h>
 
 
 // QR Code Format Encoding
